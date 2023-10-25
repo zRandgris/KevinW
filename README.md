@@ -7,6 +7,8 @@
 
 - Python, SQL , Javascript, HTML, CSS, Tableau, MongoDB, Flask, Excel.
 
+![Kevin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zRandgris&theme=cobalt&show_icons=true&hide_border=false&layout=compact)
+
 
 
 ## 💡 Interests
@@ -14,6 +16,7 @@
 - Video Games : Always facinated by good developers, that are able to create some of these masterpiece.
 - Real Estate Market: Interested with trends and data as these are very close and relatable.
 - Stock Market: Another place where trend and data are exceptionally important.
+  
 
 
 
