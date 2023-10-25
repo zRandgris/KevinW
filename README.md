@@ -17,7 +17,7 @@
 
 
 
-## 💪
+## 💪 Lets connect!
 Always open for opportunities! Let it be a project collaboration or work. You can find me with the link below 👇 
 - LinkedIn: www.linkedin.com/in/kwandata83
 - My email: kevin.wan083@gmail.com
