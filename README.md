@@ -7,7 +7,7 @@
 
 - Python, SQL , Javascript, HTML, CSS, Tableau, MongoDB, Flask, Excel.
 
-![Kevin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zRandgris&theme=cobalt&show_icons=true&hide_border=false&layout=pie)
+![Kevin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zRandgris&theme=aura&show_icons=true&hide_border=false&layout=compact)
 
 
 
